@@ -46,7 +46,7 @@ nav ul li a:hover {
 
 #hero {
     background: url('hero-image.jpg') no-repeat center center/cover; /* Replace with your image */
-    color: white;
+    color: rgb(39, 36, 216);
     padding: 100px 20px;
     text-align: center;
 }
